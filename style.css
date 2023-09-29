@@ -1,0 +1,22 @@
+html {
+    background-color: aqua;
+}
+
+
+body{
+    font-size: 100px;
+}
+
+h1{
+    .color: white;
+    text-align: justify;
+}
+
+h2{
+    color: greenyellow;
+    font-size: 10px;
+}
+
+p.color-fuchsia {
+    color:  fuchsia;
+}
