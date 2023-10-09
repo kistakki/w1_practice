@@ -1,5 +1,8 @@
-let x = 10
-let y = "text"
-let z = true
-
-console.log(x)
+const person = {
+firstName: "Petra",
+lastName: "Takács",
+fullName: function() {
+return person.firstName + person.lastName;
+}
+}
+console.log(person.fullName)
